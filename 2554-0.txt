@@ -2047,7 +2047,7 @@ youth, good-natured to the point of simplicity, though both depth and
 dignity lay concealed under that simplicity. The better of his comrades
 understood this, and all were fond of him. He was extremely intelligent,
 though he was certainly rather a simpleton at times. He was of striking
-appearance--tall, thin, blackhaired and always badly shaved. He was
+appearance--tall, thin, black-haired and always badly shaved. He was
 sometimes uproarious and was reputed to be of great physical strength.
 One night, when out in a festive company, he had with one blow laid
 a gigantic policeman on his back. There was no limit to his drinking
@@ -2967,7 +2967,7 @@ And there was the fourth storey, here was the door, here was the
 flat opposite, the empty one. The flat underneath the old woman’s was
 apparently empty also; the visiting card nailed on the door had been
 torn off--they had gone away!... He was out of breath. For one instant
-the thought floated through his mind “Shall I go back?” But he made no
+the thought floated through his mind, “Shall I go back?” But he made no
 answer and began listening at the old woman’s door, a dead silence. Then
 he listened again on the staircase, listened long and intently...
 then looked about him for the last time, pulled himself together, drew
@@ -3647,7 +3647,7 @@ He was thoroughly waked up at last by a violent knocking at his door.
 
 “Open, do, are you dead or alive? He keeps sleeping here!” shouted
 Nastasya, banging with her fist on the door. “For whole days together
-he’s snoring here like a dog! A dog he is too. Open I tell you. It’s
+he’s snoring here like a dog! A dog he is too. Open, I tell you. It’s
 past ten.”
 
 “Maybe he’s not at home,” said a man’s voice.
@@ -6930,7 +6930,7 @@ crowded about Raskolnikov, pressing up behind him.
 “Mercy on it! it’s our Afrosinya!” a woman cried tearfully close by.
 “Mercy! save her! kind people, pull her out!”
 
-“A boat, a boat” was shouted in the crowd. But there was no need of a
+“A boat, a boat!” was shouted in the crowd. But there was no need of a
 boat; a policeman ran down the steps to the canal, threw off his great
 coat and his boots and rushed into the water. It was easy to reach her:
 she floated within a couple of yards from the steps, he caught hold of
@@ -9530,7 +9530,7 @@ be offended, sister, at my making only such a frivolous criticism on the
 letter, and to think that I speak of such trifling matters on purpose to
 annoy you. It is quite the contrary, an observation apropos of the style
 occurred to me that is by no means irrelevant as things stand. There
-is one expression, ‘blame yourselves’ put in very significantly and
+is one expression, ‘blame yourselves’, put in very significantly and
 plainly, and there is besides a threat that he will go away at once if I
 am present. That threat to go away is equivalent to a threat to abandon
 you both if you are disobedient, and to abandon you now after summoning
@@ -12331,14 +12331,14 @@ emphatically that I would not speak openly in your brother’s presence,
 nevertheless, I intend now to ask your honoured mother for a necessary
 explanation on a point of great importance closely affecting my dignity.
 Your son,” he turned to Pulcheria Alexandrovna, “yesterday in the
-presence of Mr. Razsudkin (or... I think that’s it? excuse me I have
-forgotten your surname,” he bowed politely to Razumihin) “insulted me by
-misrepresenting the idea I expressed to you in a private conversation,
-drinking coffee, that is, that marriage with a poor girl who has had
-experience of trouble is more advantageous from the conjugal point of
-view than with one who has lived in luxury, since it is more profitable
-for the moral character. Your son intentionally exaggerated the
-significance of my words and made them ridiculous, accusing me of
+presence of Mr. Razsudkin (or... I think that’s it? excuse me, I have
+forgotten your surname”) (he bowed politely to Razumihin), “insulted me
+by misrepresenting the idea I expressed to you in a private
+conversation, drinking coffee, that is, that marriage with a poor girl
+who has had experience of trouble is more advantageous from the conjugal
+point of view than with one who has lived in luxury, since it is more
+profitable for the moral character. Your son intentionally exaggerated
+the significance of my words and made them ridiculous, accusing me of
 malicious intentions, and, as far as I could see, relied upon your
 correspondence with him. I shall consider myself happy, Pulcheria
 Alexandrovna, if it is possible for you to convince me of an opposite
@@ -12677,7 +12677,7 @@ before anything had happened... I tell you what; I have an uncle, I must
 introduce him to you (a most accommodating and respectable old man).
 This uncle has got a capital of a thousand roubles, and he lives on his
 pension and has no need of that money. For the last two years he has
-been bothering me to borrow it from him and pay him six per cent.
+been bothering me to borrow it from him and pay him six per cent
 interest. I know what that means; he simply wants to help me. Last year
 I had no need of it, but this year I resolved to borrow it as soon as
 he arrived. Then you lend me another thousand of your three and we have
@@ -12852,8 +12852,8 @@ mechanically took hold of it.
 
 “Who is there?” a woman’s voice asked uneasily.
 
-“It’s I... come to see you,” answered Raskolnikov and he walked into the
-tiny entry.
+“It’s I... come to see you,” answered Raskolnikov, and he walked into
+the tiny entry.
 
 On a broken chair stood a candle in a battered copper candlestick.
 
@@ -15963,7 +15963,7 @@ the wall, with his arms crossed, looking at her with glowing eyes.
 I humbly beg you meanwhile to send for the house porter,” Luzhin said
 softly and even kindly.
 
-“_Gott der Barmherzige_! I knew she was the thief,” cried Amalia
+“_Gott der Barmherzige!_ I knew she was the thief,” cried Amalia
 Ivanovna, throwing up her hands.
 
 “You knew it?” Luzhin caught her up, “then I suppose you had some reason
